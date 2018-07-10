@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.vacio {
+
+}
+
+.backgroundBlue {
+  /* Compatible con: IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #0575e6, #021b79);
+}
+
+.backgroundRed {
+  /* Compatible con: IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #ed213a, #93291e);
+}
+
+.backgroundGreen {
+  /* Compatible con: IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #38ef7d, #11998e);
+
+}
+
+.fondo {
+  width: 245px;
+  float: left;
+  margin: 25px;
+  height: 88px;
+  background: #D7DBDD;
+  border: 2px solid #424949;
+  border-radius: 12px;
+}
+
+.button {
+    background: #BDC3C7;
+    color: black;
+    display: inline-block;
+    font-size: 1em;
+    margin: 20px;
+    padding: 10px 0px;
+    text-align: center;
+    width: 200px;
+
+    text-decoration: none;
+    border: 2px solid #424949;
+    border-radius: 12px;
+}
+
+.buttonBlue {
+
+  background: #2874A6;
+  color: black;
+  display: inline-block;
+  font-size: 1em;
+  margin: 20px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 200px;
+  text-decoration: none;
+  border: 2px solid #424949;
+  border-radius: 12px;
+}
+
+.buttonGreen {
+  background: #1E8449;
+  color: black;
+  display: inline-block;
+  font-size: 1em;
+  margin: 20px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 200px;
+  text-decoration: none;
+  border: 2px solid #424949;
+  border-radius: 12px;
+}
+
+.buttonRed {
+  background: #CB4335;
+  color: black;
+  display: inline-block;
+  font-size: 1em;
+  margin: 20px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 200px;
+  text-decoration: none;
+  border: 2px solid #424949;
+  border-radius: 12px;
+}
